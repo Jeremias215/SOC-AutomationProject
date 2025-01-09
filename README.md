@@ -53,9 +53,9 @@ Tools Used
 
 
 Results
-Significant reduction in security events and incidents after hardening the environment.
-Improved SOC efficiency with automated workflows for alert enrichment and incident management.
-Enhanced security posture by implementing private endpoints and strict NSGs.
+- Significant reduction in security events and incidents after hardening the environment.
+- Improved SOC efficiency with automated workflows for alert enrichment and incident management.
+- Enhanced security posture by implementing private endpoints and strict NSGs.
 
 
 
