@@ -11,7 +11,12 @@ Project Goals
 - Compare metrics before and after applying security controls to evaluate effectiveness.
 
 
-Architecture
+Architecture:
+
+![Screen Shot 2025-01-09 at 10 09 42 PM](https://github.com/user-attachments/assets/5bd9991e-1e85-4a31-80de-32c26e170b85)
+
+![Screen Shot 2025-01-09 at 10 10 29 PM](https://github.com/user-attachments/assets/d11344f5-aa38-4565-b86c-b5305552a774)
+
 
 Components:
 
